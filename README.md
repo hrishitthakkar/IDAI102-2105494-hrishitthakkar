@@ -88,7 +88,8 @@ Brands on the curated ethical list (e.g. Doodlage, No Nasties, Cashify) get a 15
 ├── docs/
 │   ├── planning.md     # Stage 1: users, pain points, features, wireframe, ethics
 │   ├── wireframe.svg
-│   └── testing_log.md  # Stage 4: test cases, results, fixes, feedback
+│   ├── testing_log.md  # Stage 4: test cases, results, fixes, feedback
+│   └── Submission_Hrishit_Thakkar_ShopImpact.pdf  # Submission document
 └── assets/             # Screenshots
 ```
 
@@ -145,5 +146,7 @@ Optional: `python turtle_local.py` (real turtle window) and `pytest -q` (unit te
 - Supportive, guilt-free messaging by design.
 
 ---
+
+**Submission document:** [docs/Submission_Hrishit_Thakkar_ShopImpact.pdf](docs/Submission_Hrishit_Thakkar_ShopImpact.pdf)
 
 **Author:** Hrishit Thakkar · CRS Artificial Intelligence · Python Programming
