@@ -1,6 +1,6 @@
 # 🌿 ShopImpact — Conscious Shopping Dashboard
 
-**Live app:** https://YOUR-APP-NAME.streamlit.app  ← *replace after deploying*
+**Live app:** https://shopimpact-thakkar.streamlit.app
 
 ShopImpact shows the hidden carbon cost of everyday purchases before you buy. Log a planned purchase (product type, brand, price) and the app instantly estimates its CO₂ footprint, suggests greener alternatives, tracks your month on a live dashboard and rewards green choices with badges and turtle drawings.
 
@@ -111,8 +111,8 @@ Python's `turtle` module opens a desktop window with Tkinter, which doesn't exis
 **Run locally**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://github.com/hrishitthakkar/IDAI102-hrishitthakkar.git
+cd IDAI102-hrishitthakkar
 pip install -r requirements.txt
 streamlit run app.py
 ```
