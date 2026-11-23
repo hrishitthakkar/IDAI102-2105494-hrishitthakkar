@@ -112,8 +112,8 @@ Python's `turtle` module opens a desktop window with Tkinter, which doesn't exis
 **Run locally**
 
 ```bash
-git clone https://github.com/hrishitthakkar/IDAI1022105494-hrishitthakkar.git
-cd IDAI1022105494-hrishitthakkar
+git clone https://github.com/hrishitthakkar/IDAI102-2105494-hrishitthakkar.git
+cd IDAI102-2105494-hrishitthakkar
 pip install -r requirements.txt
 streamlit run app.py
 ```
