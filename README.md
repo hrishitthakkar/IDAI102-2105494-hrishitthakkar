@@ -149,4 +149,4 @@ Optional: `python turtle_local.py` (real turtle window) and `pytest -q` (unit te
 
 **Submission document:** [docs/Submission_Hrishit_Thakkar_ShopImpact.pdf](docs/Submission_Hrishit_Thakkar_ShopImpact.pdf)
 
-**Author:** Hrishit Thakkar · CRS Artificial Intelligence · Python Programming
+**Author:** Hrishit Amrish Thakkar · Grade 11 · Udgam School for Children · CRS Artificial Intelligence · Python Programming
